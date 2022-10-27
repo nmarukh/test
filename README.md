@@ -14,6 +14,11 @@ These projects showcase my data cleaning and organization skills, my ability to 
   <td><a href="https://github.com/nmarukh/yap/tree/master/A-B%20test.%20Online%20retailer">A-B test. Online retailer.</a></td>
     <td>Testing hypotheses to increase revenue in an online store - evaluate the results of an A / B test. Hypotheses were prioritized using ICE and RICE frameworks. Then I analyzed the results of the A / B test, built graphs of cumulative revenue, average bill, conversion by group, and then calculated the statistical significance of differences in conversions and average bills based on raw and clean data. Based on the analysis, I decided that it was not advisable to continue the test. </td>
     <td>pandas, seaborn, matplotlib, numpy, scipy, datetime </td>
+ </tr>
+        <tr>
+  <td><a href="https://github.com/nmarukh/yap/tree/master/Analysis%20of%20user%20behavior%20in%20a%20mobile%20application">Analysis of user behavior in a mobile application.</a></td>
+    <td>In this project, I studied the principles of event analytics. I built a sales funnel, explored customer journey to purchase. Analyzed the results of an A/B test for introducing new fonts. Compared 2 control groups with each other, made sure the traffic was correctly divided, and then compared with the test group. It is revealed that the new font will not significantly affect user behavior. </td>
+    <td>pandas, seaborn, matplotlib, numpy, scipy, datetime </td>
   </tr>
       <tr>      
    <td><a href="https://github.com/nmarukh/yap/tree/master/Churn%20forecast">Churn Forecast</a></td>
