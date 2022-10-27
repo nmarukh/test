@@ -12,7 +12,7 @@ These projects showcase my data cleaning and organization skills, my ability to 
   </tr>
         <tr>
   <td><a href="https://github.com/nmarukh/yap/blob/master/A-A-B%20tests/A-A-B%20tests%20(online%20retailer).ipynb">A-B test. Online retailer.</a></td>
-    <td>Testing hypotheses to increase revenue in an online store - evaluate the results of an A / B test. </td>
+    <td>Testing hypotheses to increase revenue in an online store - evaluate the results of an A / B test. Hypotheses were prioritized using ICE and RICE frameworks. Then I analyzed the results of the A / B test, built graphs of cumulative revenue, average bill, conversion by group, and then calculated the statistical significance of differences in conversions and average bills based on raw and clean data. Based on the analysis, I decided that it was not advisable to continue the test. </td>
     <td>pandas, seaborn, matplotlib, numpy, scipy, datetime </td>
   </tr>
       <tr>      
