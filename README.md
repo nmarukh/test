@@ -11,7 +11,7 @@ These projects showcase my data cleaning and organization skills, my ability to 
     <td width=20%>Used libraries</td>
   </tr>
         <tr>
-  <td><a href="https://github.com/nmarukh/yap/blob/master/A-A-B%20tests/A-A-B%20tests%20(online%20retailer).ipynb">A-A-B tests</a></td>
+  <td><a href="https://github.com/nmarukh/yap/blob/master/A-A-B%20tests/A-A-B%20tests%20(online%20retailer).ipynb">A-B test. Online retailer.</a></td>
     <td>Testing hypotheses to increase revenue in an online store - evaluate the results of an A / B test. </td>
     <td>pandas, seaborn, matplotlib, numpy, scipy, datetime </td>
   </tr>
