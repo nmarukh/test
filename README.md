@@ -18,7 +18,7 @@ These projects showcase my data cleaning and organization skills, my ability to 
         <tr>
   <td><a href="https://github.com/nmarukh/yap/tree/master/Analysis%20of%20user%20behavior%20in%20a%20mobile%20application">Analysis of user behavior in a mobile application.</a></td>
     <td>In this project, I studied the principles of event analytics. I built a sales funnel, explored customer journey to purchase. Analyzed the results of an A/B test for introducing new fonts. Compared 2 control groups with each other, made sure the traffic was correctly divided, and then compared with the test group. It is revealed that the new font will not significantly affect user behavior. </td>
-    <td>pandas, seaborn, matplotlib, numpy, scipy, datetime </td>
+    <td>pandas, seaborn, matplotlib, numpy, scipy, plotly, math, statsmodels </td>
   </tr>
       <tr>      
    <td><a href="https://github.com/nmarukh/yap/tree/master/Churn%20forecast">Churn Forecast</a></td>
